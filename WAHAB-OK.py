@@ -1,7 +1,7 @@
-# Obfuscated with PyObfuscate
-#ENCRYPTED BY :ANONYMOUS U7P4L
+
+#ENCRYPTED BY : CYBER SOJIB
 #VERSION :ALPHA
-#GITHUB : https://github.com/U7P4L-IN
+#GITHUB : https://github.com/K1NG-SOJIB-6T9 
 #FEEL THE POWER OF U7P4L...
 # Time : Sun May 21 12:59:49 2023
 # -------------------------------
